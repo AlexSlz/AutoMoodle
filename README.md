@@ -1,3 +1,5 @@
-# AutoMoodle
+# *AutoMoodle*
  
-https://github.com/Cat4Wizard/AutoMoodle/archive/master.zip
+ 
+###### Download: 
+https://github.com/AlexSlz/AutoMoodle/raw/master/Release/autoSite.exe
