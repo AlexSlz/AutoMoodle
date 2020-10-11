@@ -1,3 +1,3 @@
 # AutoMoodle
  
-https://github.com/AlexSlz/AutoMoodle/archive/master.zip
+https://github.com/AlexSlz/AutoMoodle/raw/master/Release/autoSite.exe
